@@ -1,0 +1,250 @@
+.title {
+    position: relative;
+    left: 16%;
+    color: rgb(43, 136, 164);
+    font-family: 200%;
+    
+
+}
+
+
+
+.top-row {
+    display: flex;
+    font-family: sans-serif;
+
+}
+
+
+
+
+#chem-author-date {
+    width: 35%;
+    position: relative;
+    left: 17%;
+    align-content: space-around;
+    z-index: 1;
+    padding-top: 3.5%;
+    
+  
+    height: 45%;
+
+
+
+
+
+}
+
+/* Chemistry. L.C.A  */
+
+#chemistry {
+    height: 12rem;
+    background-image: linear-gradient(to bottom, rgb(20, 117, 146),rgb(20, 117, 146), rgb(18, 211, 173));
+    text-align: left;
+    border-radius: 2.5px;
+    color: white;
+    padding-top: .75%;
+    padding-left: 5%;
+    font-size: 85%;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: rgb(18, 211, 173);
+
+}
+
+
+#LCA-text {
+    text-transform: uppercase;
+    line-height: 1.3rem;
+    font-weight: bold;
+    font-size: 140% !important;
+    text-shadow: .5px 0 0 rgb(18, 211, 173), 0 -.5px 0 rgb(18, 211, 173), 0 .5px 0 rgb(18, 211, 173), -.5px 0 0 rgb(18, 211, 173);
+    
+    
+}
+
+#top-text {
+    font-size: 120%;
+    font-weight: 200;
+    padding-right: 14%;
+    text-shadow: .5px 0 0 rgb(18, 211, 173), 0 -.5px 0 rgb(18, 211, 173), 0 .5px 0 rgb(18, 211, 173), -.5px 0 0 rgb(18, 211, 173);
+
+}
+
+#author {
+    color: rgb(180, 180, 180);
+    font-weight: 100;
+}
+
+
+#octo-div {
+    position: absolute;
+    top: 10%;
+    height: 45%;
+    width: 55%;
+    left: 46%;
+
+}
+#octo-image {
+   
+    height: 90%;
+    width: 76%;
+    border-radius: 3px;
+    border-radius: 3px;
+    border-width: 1px;
+    border-color: rgb(18, 211, 173);
+}
+
+
+.bottom-tile
+{
+    border-radius: 2.5px;
+    background-color: #eef2f3;
+    border-color: black;
+    border-width: 1px;
+    width: 100%;
+    font-size: .5rem;
+    padding: 1.5%;
+    border-style: solid;
+    border-radius: 2.5px;
+    border-width: 1px;
+    border-color: rgb(174, 174, 174);
+   
+   
+
+   
+    
+   
+}
+
+.tile-text {
+    padding-left: 5%;
+    padding-top: 2.5%;
+   
+    
+    
+}
+
+
+
+
+.author-date {
+    padding-top: 5%;
+    line-height: 1.54rem;
+    color: rgb(180, 180, 180);
+    font-size: .6rem;
+    padding-right: 5% !important;
+}
+
+.bottom-tile img{
+    object-fit: cover;
+    object-position: bottom;
+    width: 100%;
+    max-height: 20%;
+
+   
+    
+    border-radius: 2.5px;
+
+}
+
+
+
+td {
+    
+    width: 30%;
+    padding-left: 4%;
+    margin-right: 10%;
+    height: 50%;
+  
+
+   
+    
+}
+
+#bottom-row-table {
+    padding-top: 6%;
+    left: 11.75%;
+    position: relative;
+    width: 75.7%;
+    font-family: sans-serif;
+    
+
+}
+
+#subject{
+    background-color: rgb(236, 147, 111);
+    width: fit-content;
+    height: fit-content;
+    padding: 2%;
+    font-weight: 100;
+    border-radius: 2.5px;
+    color: white;
+    font-size: 90%;
+
+
+    
+    
+}
+#geo
+{
+    background-color: rgb(15, 111, 18);
+    width: fit-content;
+    height: fit-content;
+    padding: 2%;
+    font-weight: 100;
+    border-radius: 2.5px;
+    color: white;
+  
+}
+
+.bottomLCA {
+    font-size: 190%;
+    font-weight: 500;
+    text-transform: uppercase;
+    padding-right: 13%;
+    
+   
+    
+}
+
+.textBottom {
+    font-size: 180%;
+    font-weight: 100;
+    padding-right: 13%;
+    
+
+}
+.sub-type {
+    align-items: left !important;
+    display: flex;
+    justify-content: space-between;
+    font-weight: 100;
+    padding-right: 5% !important;
+
+    
+    
+  
+    
+}
+
+.type {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
